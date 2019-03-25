@@ -5,7 +5,7 @@
 
 # Maintainer: Leon Richardt <leon.richardt@gmail.com>
 pkgname=corrupter
-pkgver=0.2
+pkgver=0.3
 pkgrel=1
 pkgdesc="Image glither for PNG files"
 arch=("x86_64")
